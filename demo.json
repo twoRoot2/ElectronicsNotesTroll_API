@@ -1,64 +1,230 @@
 {
-    "studyMaterialCS": [
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs1ps.pdf",
-            "Title": "Contents",
-            "chNo": "0"
+    "Semester 1": {
+        "GE Computer Science": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "https://firebasestorage.googleapis.com/v0/b/prepply021.appspot.com/o/Assignment%2FClass%2011th%2FPhysics%2Fmechanical%20properties%20of%20solid?alt=media&token=e6f6fbf4-aa71-4295-891f-03cbef6da55e",
+                    "providedBy": "na",
+                    "semester": "Semester 1",
+                    "serialNo": "0",
+                    "subject": "GE Computer Science",
+                    "title": "na"
+                }
+            ]
         },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs101.pdf",
-            "Title": "Computer System",
-            "chNo": "1"
+        "Mathematics": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "na",
+                    "semester": "Semester 1",
+                    "serialNo": "0",
+                    "subject": "Mathematics",
+                    "title": "na"
+                }
+            ]
         },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs102.pdf",
-            "Title": "Encoding Schemes and Number System",
-            "chNo": "2"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs103.pdf",
-            "Title": "Emerging Trends",
-            "chNo": "3"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs104.pdf",
-            "Title": "Introduction to Problem Solving",
-            "chNo": "4"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs105.pdf",
-            "Title": "Getting Started with Python",
-            "chNo": "5"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs106.pdf",
-            "Title": "Flow of Control",
-            "chNo": "6"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs107.pdf",
-            "Title": "Functions",
-            "chNo": "7"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs108.pdf",
-            "Title": "Strings",
-            "chNo": "8"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs109.pdf",
-            "Title": "Lists",
-            "chNo": "9"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs110.pdf",
-            "Title": "Tuples and Dictionaries",
-            "chNo": "10"
-        },
-        {
-            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs111.pdf",
-            "Title": "Societal Impact",
-            "chNo": "11"
+        "Network Analysis": {
+            "BOOKS": [
+                {
+                    "activeStatus": "P",
+                    "description": "hcjv",
+                    "materialsType": "BOOKS",
+                    "pdfURL": "https://firebasestorage.googleapis.com/v0/b/prepply021.appspot.com/o/Assignment%2FClass%2011th%2FPhysics%2Fmechanical%20properties%20of%20solid?alt=media&token=e6f6fbf4-aa71-4295-891f-03cbef6da55e",
+                    "providedBy": "jvjv",
+                    "semester": "Semester 1",
+                    "serialNo": "0",
+                    "subject": "Network Analysis",
+                    "title": "ucjv"
+                }
+            ],
+            "LAB": [
+                {
+                    "activeStatus": "W",
+                    "description": "\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"",
+                    "materialsType": "LAB",
+                    "pdfURL": "https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO",
+                    "providedBy": "ivib",
+                    "semester": "Semester 1",
+                    "serialNo": "0",
+                    "subject": "Network Analysis",
+                    "title": "g8g8"
+                }
+            ],
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "u s7bs",
+                    "materialsType": "NOTES",
+                    "pdfURL": "u zibs",
+                    "providedBy": "8bs s",
+                    "semester": "Semester 1",
+                    "serialNo": "0",
+                    "subject": "Network Analysis",
+                    "title": "English"
+                },
+                {
+                    "activeStatus": "W",
+                    "description": "ma",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "Vishal Anand",
+                    "semester": "Semester 1",
+                    "serialNo": "1",
+                    "subject": "Network Analysis",
+                    "title": "na"
+                },
+                {
+                    "activeStatus": "W",
+                    "description": "ma",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "Vishal Anand",
+                    "semester": "Semester 1",
+                    "serialNo": "2",
+                    "subject": "Network Analysis",
+                    "title": "na"
+                },
+                {
+                    "activeStatus": "W",
+                    "description": "ma",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "Vishal Anand",
+                    "semester": "Semester 1",
+                    "serialNo": "3",
+                    "subject": "Network Analysis",
+                    "title": "na"
+                },
+                {
+                    "activeStatus": "W",
+                    "description": "ma",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "Vishal Anand",
+                    "semester": "Semester 1",
+                    "serialNo": "4",
+                    "subject": "Network Analysis",
+                    "title": "na"
+                },
+                {
+                    "activeStatus": "P",
+                    "description": "ma",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "Vishal Anand",
+                    "semester": "Semester 1",
+                    "serialNo": "5",
+                    "subject": "Network Analysis",
+                    "title": "na"
+                }
+            ]
         }
-    ]
+    },
+    "Semester 2": {
+        "Network Analysis": {
+            "BOOKS": [
+                {
+                    "activeStatus": "W",
+                    "description": "hcjv",
+                    "materialsType": "BOOKS",
+                    "pdfURL": "guv",
+                    "providedBy": "jvjv",
+                    "semester": "Semester 2",
+                    "serialNo": "0",
+                    "subject": "Network Analysis",
+                    "title": "ucjv"
+                }
+            ]
+        }
+    },
+    "Semester 3": {
+        "GE Computer Science": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "na",
+                    "semester": "Semester 3",
+                    "serialNo": "0",
+                    "subject": "GE Computer Science",
+                    "title": "na"
+                }
+            ]
+        },
+        "GE Computer Science 3": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "na",
+                    "semester": "Semester 3",
+                    "serialNo": "0",
+                    "subject": "GE Computer Science 3",
+                    "title": "na"
+                }
+            ]
+        }
+    },
+    "Semester 4": {
+        "GE Computer Science": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "na",
+                    "semester": "Semester 4",
+                    "serialNo": "0",
+                    "subject": "GE Computer Science",
+                    "title": "na"
+                }
+            ]
+        }
+    },
+    "Semester 5": {
+        "GE Computer Science": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "na",
+                    "semester": "Semester 5",
+                    "serialNo": "0",
+                    "subject": "GE Computer Science",
+                    "title": "na"
+                }
+            ]
+        }
+    },
+    "Semester 6": {
+        "GE Computer Science": {
+            "NOTES": [
+                {
+                    "activeStatus": "P",
+                    "description": "na",
+                    "materialsType": "NOTES",
+                    "pdfURL": "na",
+                    "providedBy": "na",
+                    "semester": "Semester 6",
+                    "serialNo": "0",
+                    "subject": "GE Computer Science",
+                    "title": "na"
+                }
+            ]
+        }
+    }
 }
