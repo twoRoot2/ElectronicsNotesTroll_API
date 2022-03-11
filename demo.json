@@ -1,230 +1,230 @@
 {
-    "Semester 1": {
-        "GE Computer Science": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "https://firebasestorage.googleapis.com/v0/b/prepply021.appspot.com/o/Assignment%2FClass%2011th%2FPhysics%2Fmechanical%20properties%20of%20solid?alt=media&token=e6f6fbf4-aa71-4295-891f-03cbef6da55e",
-                    "providedBy": "na",
-                    "semester": "Semester 1",
-                    "serialNo": "0",
-                    "subject": "GE Computer Science",
-                    "title": "na"
-                }
-            ]
+  "Semester 1": {
+    "GE Computer Science": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "https://firebasestorage.googleapis.com/v0/b/prepply021.appspot.com/o/Assignment%2FClass%2011th%2FPhysics%2Fmechanical%20properties%20of%20solid?alt=media&token=e6f6fbf4-aa71-4295-891f-03cbef6da55e",
+          "providedBy": "na",
+          "semester": "Semester 1",
+          "serialNo": "0",
+          "subject": "GE Computer Science",
+          "title": "na"
+        }
+      ]
+    },
+    "Mathematics": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "na",
+          "semester": "Semester 1",
+          "serialNo": "0",
+          "subject": "Mathematics",
+          "title": "na"
+        }
+      ]
+    },
+    "Network Analysis": {
+      "BOOKS": [
+        {
+          "activeStatus": "P",
+          "description": "hcjv",
+          "materialsType": "BOOKS",
+          "pdfURL": "https://firebasestorage.googleapis.com/v0/b/prepply021.appspot.com/o/Assignment%2FClass%2011th%2FPhysics%2Fmechanical%20properties%20of%20solid?alt=media&token=e6f6fbf4-aa71-4295-891f-03cbef6da55e",
+          "providedBy": "jvjv",
+          "semester": "Semester 1",
+          "serialNo": "0",
+          "subject": "Network Analysis",
+          "title": "ucjv"
+        }
+      ],
+      "LAB": [
+        {
+          "activeStatus": "W",
+          "description": "\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"",
+          "materialsType": "LAB",
+          "pdfURL": "https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO",
+          "providedBy": "ivib",
+          "semester": "Semester 1",
+          "serialNo": "0",
+          "subject": "Network Analysis",
+          "title": "g8g8"
+        }
+      ],
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "Unit - 1, 2, 3, 4",
+          "materialsType": "NOTES",
+          "pdfURL": "u zibs",
+          "providedBy": "Vishal Anand",
+          "semester": "Semester 1",
+          "serialNo": "0",
+          "subject": "Network Analysis",
+          "title": "Network Analysis unit wise notes"
         },
-        "Mathematics": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "na",
-                    "semester": "Semester 1",
-                    "serialNo": "0",
-                    "subject": "Mathematics",
-                    "title": "na"
-                }
-            ]
+        {
+          "activeStatus": "W",
+          "description": "ma",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "Vishal Anand",
+          "semester": "Semester 1",
+          "serialNo": "1",
+          "subject": "Network Analysis",
+          "title": "na"
         },
-        "Network Analysis": {
-            "BOOKS": [
-                {
-                    "activeStatus": "P",
-                    "description": "hcjv",
-                    "materialsType": "BOOKS",
-                    "pdfURL": "https://firebasestorage.googleapis.com/v0/b/prepply021.appspot.com/o/Assignment%2FClass%2011th%2FPhysics%2Fmechanical%20properties%20of%20solid?alt=media&token=e6f6fbf4-aa71-4295-891f-03cbef6da55e",
-                    "providedBy": "jvjv",
-                    "semester": "Semester 1",
-                    "serialNo": "0",
-                    "subject": "Network Analysis",
-                    "title": "ucjv"
-                }
-            ],
-            "LAB": [
-                {
-                    "activeStatus": "W",
-                    "description": "\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"\"https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO\"",
-                    "materialsType": "LAB",
-                    "pdfURL": "https://drive.google.com/drive/folders/1WwQMs-DqnmalqNBtNTWIrdnbFe6C9duO",
-                    "providedBy": "ivib",
-                    "semester": "Semester 1",
-                    "serialNo": "0",
-                    "subject": "Network Analysis",
-                    "title": "g8g8"
-                }
-            ],
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "u s7bs",
-                    "materialsType": "NOTES",
-                    "pdfURL": "u zibs",
-                    "providedBy": "8bs s",
-                    "semester": "Semester 1",
-                    "serialNo": "0",
-                    "subject": "Network Analysis",
-                    "title": "English"
-                },
-                {
-                    "activeStatus": "W",
-                    "description": "ma",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "Vishal Anand",
-                    "semester": "Semester 1",
-                    "serialNo": "1",
-                    "subject": "Network Analysis",
-                    "title": "na"
-                },
-                {
-                    "activeStatus": "W",
-                    "description": "ma",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "Vishal Anand",
-                    "semester": "Semester 1",
-                    "serialNo": "2",
-                    "subject": "Network Analysis",
-                    "title": "na"
-                },
-                {
-                    "activeStatus": "W",
-                    "description": "ma",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "Vishal Anand",
-                    "semester": "Semester 1",
-                    "serialNo": "3",
-                    "subject": "Network Analysis",
-                    "title": "na"
-                },
-                {
-                    "activeStatus": "W",
-                    "description": "ma",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "Vishal Anand",
-                    "semester": "Semester 1",
-                    "serialNo": "4",
-                    "subject": "Network Analysis",
-                    "title": "na"
-                },
-                {
-                    "activeStatus": "P",
-                    "description": "ma",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "Vishal Anand",
-                    "semester": "Semester 1",
-                    "serialNo": "5",
-                    "subject": "Network Analysis",
-                    "title": "na"
-                }
-            ]
-        }
-    },
-    "Semester 2": {
-        "Network Analysis": {
-            "BOOKS": [
-                {
-                    "activeStatus": "W",
-                    "description": "hcjv",
-                    "materialsType": "BOOKS",
-                    "pdfURL": "guv",
-                    "providedBy": "jvjv",
-                    "semester": "Semester 2",
-                    "serialNo": "0",
-                    "subject": "Network Analysis",
-                    "title": "ucjv"
-                }
-            ]
-        }
-    },
-    "Semester 3": {
-        "GE Computer Science": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "na",
-                    "semester": "Semester 3",
-                    "serialNo": "0",
-                    "subject": "GE Computer Science",
-                    "title": "na"
-                }
-            ]
+        {
+          "activeStatus": "W",
+          "description": "ma",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "Vishal Anand",
+          "semester": "Semester 1",
+          "serialNo": "2",
+          "subject": "Network Analysis",
+          "title": "na"
         },
-        "GE Computer Science 3": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "na",
-                    "semester": "Semester 3",
-                    "serialNo": "0",
-                    "subject": "GE Computer Science 3",
-                    "title": "na"
-                }
-            ]
+        {
+          "activeStatus": "W",
+          "description": "ma",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "Vishal Anand",
+          "semester": "Semester 1",
+          "serialNo": "3",
+          "subject": "Network Analysis",
+          "title": "na"
+        },
+        {
+          "activeStatus": "W",
+          "description": "ma",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "Vishal Anand",
+          "semester": "Semester 1",
+          "serialNo": "4",
+          "subject": "Network Analysis",
+          "title": "na"
+        },
+        {
+          "activeStatus": "P",
+          "description": "ma",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "Vishal Anand",
+          "semester": "Semester 1",
+          "serialNo": "5",
+          "subject": "Network Analysis",
+          "title": "na"
         }
-    },
-    "Semester 4": {
-        "GE Computer Science": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "na",
-                    "semester": "Semester 4",
-                    "serialNo": "0",
-                    "subject": "GE Computer Science",
-                    "title": "na"
-                }
-            ]
-        }
-    },
-    "Semester 5": {
-        "GE Computer Science": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "na",
-                    "semester": "Semester 5",
-                    "serialNo": "0",
-                    "subject": "GE Computer Science",
-                    "title": "na"
-                }
-            ]
-        }
-    },
-    "Semester 6": {
-        "GE Computer Science": {
-            "NOTES": [
-                {
-                    "activeStatus": "P",
-                    "description": "na",
-                    "materialsType": "NOTES",
-                    "pdfURL": "na",
-                    "providedBy": "na",
-                    "semester": "Semester 6",
-                    "serialNo": "0",
-                    "subject": "GE Computer Science",
-                    "title": "na"
-                }
-            ]
-        }
+      ]
     }
+  },
+  "Semester 2": {
+    "Network Analysis": {
+      "BOOKS": [
+        {
+          "activeStatus": "W",
+          "description": "hcjv",
+          "materialsType": "BOOKS",
+          "pdfURL": "guv",
+          "providedBy": "jvjv",
+          "semester": "Semester 2",
+          "serialNo": "0",
+          "subject": "Network Analysis",
+          "title": "ucjv"
+        }
+      ]
+    }
+  },
+  "Semester 3": {
+    "GE Computer Science": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "na",
+          "semester": "Semester 3",
+          "serialNo": "0",
+          "subject": "GE Computer Science",
+          "title": "na"
+        }
+      ]
+    },
+    "GE Computer Science 3": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "na",
+          "semester": "Semester 3",
+          "serialNo": "0",
+          "subject": "GE Computer Science 3",
+          "title": "na"
+        }
+      ]
+    }
+  },
+  "Semester 4": {
+    "GE Computer Science": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "na",
+          "semester": "Semester 4",
+          "serialNo": "0",
+          "subject": "GE Computer Science",
+          "title": "na"
+        }
+      ]
+    }
+  },
+  "Semester 5": {
+    "GE Computer Science": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "na",
+          "semester": "Semester 5",
+          "serialNo": "0",
+          "subject": "GE Computer Science",
+          "title": "na"
+        }
+      ]
+    }
+  },
+  "Semester 6": {
+    "GE Computer Science": {
+      "NOTES": [
+        {
+          "activeStatus": "P",
+          "description": "na",
+          "materialsType": "NOTES",
+          "pdfURL": "na",
+          "providedBy": "na",
+          "semester": "Semester 6",
+          "serialNo": "0",
+          "subject": "GE Computer Science",
+          "title": "na"
+        }
+      ]
+    }
+  }
 }
