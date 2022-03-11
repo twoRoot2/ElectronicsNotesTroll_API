@@ -1,4 +1,4 @@
 {
-  "jsonLink": "https://tworoot2.github.io/ElectronicsNotesTroll_API/demo.json",
-  "status":"f"
+  "jsonLink": "https://electronics-notestroll-default-rtdb.firebaseio.com/Electronics/.json",
+  "status":"fi"
 }
