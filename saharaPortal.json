@@ -1,0 +1,96 @@
+{
+    "news": [
+        {
+            "imgURL": "na",
+            "title": "Pan Card",
+            "type": "2",
+            "openURL": "na",
+            "description": "na",
+            "uploadTime": "02/09/2023"
+        },
+        {
+            "imgURL": "na",
+            "title": "Sarkari Yojana",
+            "type": "2",
+            "openURL": "na",
+            "description": "na",
+            "uploadTime": "02/09/2023"
+        }
+    ],
+    "setUp": [
+        {
+            "heading": "Advertisement",
+            "details": [
+                {
+                    "imgURL": "na",
+                    "title": "Pan Card",
+                    "type": "2",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "na",
+                    "title": "Sarkari Yojana",
+                    "type": "2",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                }
+            ]
+        },
+        {
+            "heading": "Sahara Refund",
+            "details": [
+                {
+                    "imgURL": "na",
+                    "title": "Depositor Registration",
+                    "type": "0",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "na",
+                    "title": "Depositor Login",
+                    "type": "0",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "na",
+                    "title": "Complaint Page",
+                    "type": "0",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "na",
+                    "title": "Home Page",
+                    "type": "0",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "na",
+                    "title": "How to Apply",
+                    "type": "0",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "na",
+                    "title": "Helpline Portal",
+                    "type": "0",
+                    "openURL": "na",
+                    "description": "na",
+                    "uploadTime": "02/09/2023"
+                }
+            ]
+        }
+    ]
+}
