@@ -21,22 +21,13 @@
     ],
     "setUp": [
         {
-            "heading": "Advertisement",
+            "heading": "Other Services",
             "details": [
                 {
-                    "imgURL": "na",
-                    "title": "Pan Card",
-                    "type": "2",
-                    "openURL": "na",
-                    "description": "na",
-                    "descriptionHindi": "na",
-                    "uploadTime": "02/09/2023"
-                },
-                {
-                    "imgURL": "na",
+                    "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
                     "title": "Sarkari Yojana",
                     "type": "2",
-                    "openURL": "na",
+                    "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
                     "description": "na",
                     "descriptionHindi": "na",
                     "uploadTime": "02/09/2023"
