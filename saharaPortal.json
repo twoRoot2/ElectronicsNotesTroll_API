@@ -1,21 +1,21 @@
 {
     "news": [
         {
-            "imgURL": "na",
+            "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
             "title": "Pan Card",
             "type": "2",
-            "openURL": "na",
+            "openURL": "https://www.google.com/",
             "description": "na",
-            "descriptionHindi": "na",
+            "descriptionHindi": "naH",
             "uploadTime": "02/09/2023"
         },
         {
-            "imgURL": "na",
+            "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
             "title": "Sarkari Yojana",
             "type": "2",
-            "openURL": "na",
+            "openURL": "https://www.google.com/",
             "description": "na",
-            "descriptionHindi": "na",
+            "descriptionHindi": "naH",
             "uploadTime": "02/09/2023"
         }
     ],
@@ -29,7 +29,7 @@
                     "type": "2",
                     "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 }
             ]
@@ -38,57 +38,57 @@
             "heading": "Sahara Refund",
             "details": [
                 {
-                    "imgURL": "na",
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
                     "title": "Depositor Registration",
                     "type": "0",
-                    "openURL": "na",
+                    "openURL": "https://www.google.com/",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
-                    "imgURL": "na",
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
                     "title": "Depositor Login",
                     "type": "0",
-                    "openURL": "na",
+                    "openURL": "https://www.google.com/",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
-                    "imgURL": "na",
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
                     "title": "Complaint Page",
                     "type": "0",
-                    "openURL": "na",
+                    "openURL": "https://www.google.com/",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
-                    "imgURL": "na",
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
                     "title": "Home Page",
                     "type": "0",
-                    "openURL": "na",
+                    "openURL": "https://www.google.com/",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
-                    "imgURL": "na",
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
                     "title": "How to Apply",
                     "type": "0",
-                    "openURL": "na",
+                    "openURL": "https://www.google.com/",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
-                    "imgURL": "na",
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
                     "title": "Helpline Portal",
                     "type": "0",
-                    "openURL": "na",
+                    "openURL": "https://www.google.com/",
                     "description": "na",
-                    "descriptionHindi": "na",
+                    "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 }
             ]
