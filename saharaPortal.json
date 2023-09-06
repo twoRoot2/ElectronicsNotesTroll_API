@@ -39,36 +39,36 @@
             "details": [
                 {
                     "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
-                    "title": "Depositor Registration",
+                    "title": "जमाकर्ता पंजीकरण",
                     "type": "0",
-                    "openURL": "https://www.google.com/",
+                    "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
+                    "description": "na",
+                    "descriptionHindi": "👉 आपको निम्नलिखित चरणों का पालन करना होगा |  \n👉 सबसे पहले आपको निचे दिए गए Open Link बटन पर क्लिक करना होगा  \n👉 इसके बाद आपको आपको उपर 'जमाकर्ता पंजीकरण'  पर क्लिक करना होगा।  \n👉 ऐसा करते ही आपके सामने एक पेज खुलेगा, उसमें आपको आधार कार्ड नंबर और आधार कार्ड से जुड़ा मोबाइल नंबर को दर्ज करना होगा, फिर कैप्चा को दर्ज कर नीचे स्थित 'ओटीपी प्राप्त करें' पर क्लिक करना होगा।  \n👉 इसके बाद आपके रजिस्टर्ड मोबाइल नंबर पर एक ओटीपी आयेगा, उसे नीचे स्थित बॉक्स में दर्ज करें और फिर 'ओटीपी सत्यापित करें' पर क्लिक करें।  \n👉 इस तरह आप पोर्टल में Sahara Refund Portal CRCS में पंजीकृत हो जायेंगे।",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
+                    "title": "जमाकर्ता लॉगिन",
+                    "type": "0",
+                    "openURL": "https://mocrefund.crcs.gov.in/Depositor/Login",
                     "description": "na",
                     "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
                     "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
-                    "title": "Depositor Login",
+                    "title": "जरुरी दस्तावेज",
                     "type": "0",
-                    "openURL": "https://www.google.com/",
+                    "openURL": "https://mocrefund.crcs.gov.in/",
                     "description": "na",
                     "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
                 },
                 {
                     "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
-                    "title": "Complaint Page",
+                    "title": "शिकायत दर्ज करें",
                     "type": "0",
-                    "openURL": "https://www.google.com/",
-                    "description": "na",
-                    "descriptionHindi": "naH",
-                    "uploadTime": "02/09/2023"
-                },
-                {
-                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
-                    "title": "Home Page",
-                    "type": "0",
-                    "openURL": "https://www.google.com/",
+                    "openURL": "https://mocrefund.crcs.gov.in/Grievance",
                     "description": "na",
                     "descriptionHindi": "naH",
                     "uploadTime": "02/09/2023"
