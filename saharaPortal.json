@@ -60,7 +60,7 @@
                     "title": "जरुरी दस्तावेज",
                     "type": "0",
                     "openURL": "https://mocrefund.crcs.gov.in/",
-                    "description": "🔘 For this, the following documents should be \n\n🔘 Aadhaar card \n\n🔘 Mobile number \n\n🔘 Email (optional) \n\n🔘 Account number linked to Aadhar card or bank passbook \n\n🔘 Deposit Receipt number of money made \n\n🔘 Photo \n\n🔘 Signature \n\n🔘 PAN card (if deposit amount is more than Rs 50,000)",
+                    "description": "🔘 For this, the following documents should be needed \n\n🔘 Aadhaar card \n\n🔘 Mobile number \n\n🔘 Email (optional) \n\n🔘 Account number linked to Aadhar card or bank passbook \n\n🔘 Deposit Receipt number of money made \n\n🔘 Photo \n\n🔘 Signature \n\n🔘 PAN card (if deposit amount is more than Rs 50,000)",
                     "descriptionHindi": "🔘 इसके लिए निम्नलिखित दस्तावेज होने चाहिए  \n\n🔘 आधार कार्ड  \n\n🔘 मोबाइल नंबर  \n\n🔘 ईमेल (वैकल्पिक)  \n\n🔘 आधार कार्ड से जुड़ा खाता संख्या या बैंक पासबुक  \n\n🔘 जमा किए गए पैसे की रसीद संख्या  \n\n🔘 फोटो  \n\n🔘 हस्ताक्षर  \n\n🔘 पैन कार्ड (यदि जमा राशि 50,000 से अधिक है)",
                     "uploadTime": "02/09/2023"
                 },
@@ -69,8 +69,8 @@
                     "title": "शिकायत दर्ज करें",
                     "type": "0",
                     "openURL": "https://mocrefund.crcs.gov.in/Grievance",
-                    "description": "na",
-                    "descriptionHindi": "naH",
+                    "description": "Register Complaint \n\n🔘 Office of the Central Registrar, Multi State Co-operative Society, CRCS 1st Floor, Ministry of Cooperatives, Atal Akshay Urja Bhawan, CGO Complex, Lodhi Road, Pin - 110 003, Email - im.section397@gmail.com, You can send complaint to regmscs@gmail.com.",
+                    "descriptionHindi": "शिकायत दर्ज करें  \n\n🔘 आपको सेंट्रल रजिस्ट्रार, मल्टी स्टेट को-ऑपरेटिव सोसाइटी, सीआरसीएस का कार्यालय प्रथम तल, सहकारी मंत्रालय, अटल अक्षय उर्जा भवन, सीजीओ कम्पलेक्स, लोधी रोड, पिन - 110 003, Email - im.section397@gmail.com, regmscs@gmail.com के पास शिकायत भेज सकते हैं।",
                     "uploadTime": "02/09/2023"
                 },
                 {
