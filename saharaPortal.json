@@ -75,20 +75,29 @@
                 },
                 {
                     "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
-                    "title": "How to Apply",
+                    "title": "Helpline Portal",
                     "type": "0",
                     "openURL": "https://www.google.com/",
-                    "description": "na",
-                    "descriptionHindi": "naH",
+                    "description": "Helpline \n\nAll such investors who want to get their money back or want to know about it can get information on Sahara toll free helpline number 1800-180-9000.",
+                    "descriptionHindi": "Helpline \n\nऐसे सभी investors जो अपना पैसा वापस प्राप्त करना चाहते हैं या इसके बारे में जानना चाहते हैं, वे सहारा टोल फ्री हेल्पलाइन नंबर 1800-180-9000 पर जानकारी प्राप्त कर सकते हैं।",
                     "uploadTime": "02/09/2023"
                 },
                 {
                     "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
-                    "title": "Helpline Portal",
+                    "title": "User Manual English",
                     "type": "0",
-                    "openURL": "https://www.google.com/",
-                    "description": "na",
-                    "descriptionHindi": "naH",
+                    "openURL": "https://drive.google.com/file/d/1IdkRpmRGR4ep-DiSVBB0C38TGod4z760/view?usp=sharing",
+                    "description": "Click on the Open Website button and you will get the User Manual PDF, you will get full A to Z information about Sahara Refund process",
+                    "descriptionHindi": "'Open Website' बटन पर क्लिक करें और आपको User Manual PDF मिलेगा, आपको सहारा रिफंड प्रक्रिया के बारे में पूरी ए टू जेड जानकारी मिलेगी",
+                    "uploadTime": "02/09/2023"
+                },
+                {
+                    "imgURL": "https://umbra.nascom.nasa.gov/eit/images/eclipse/eit_20010621_1251_171_tn.gif",
+                    "title": "User Manual Hindi",
+                    "type": "0",
+                    "openURL": "https://drive.google.com/file/d/1UB2l9RmMIJsKtfDLFlEDmstLUbe3AYas/view?usp=drive_link",
+                    "description": "Click on the Open Website button and you will get the User Manual PDF, you will get full A to Z information about Sahara Refund process",
+                    "descriptionHindi": "'Open Website' बटन पर क्लिक करें और आपको User Manual PDF मिलेगा, आपको सहारा रिफंड प्रक्रिया के बारे में पूरी ए टू जेड जानकारी मिलेगी",
                     "uploadTime": "02/09/2023"
                 }
             ]
