@@ -1,6 +1,24 @@
 {
     "news": [
         {
+            "imgURL": "https://tworoot2.github.io/Images/ac_img/Add%20a%20subheading.png",
+            "title": "OTP not coming problem",
+            "type": "2",
+            "openURL": "https://bit.ly/3qDxLNt",
+            "description": "Users encountering difficulties with receiving the OTP on the Sahara India Refund Portal while entering their Aadhaar number might be due to technical glitches on the recently launched website. To resolve this issue, it is recommended to be patient and attempt the process again later. The developers are likely working to fix the problem, and with time, users should be able to receive the OTP and complete their registration on the portal smoothly.",
+            "descriptionHindi": "उपयोगकर्ताओं को अपना आधार नंबर दर्ज करते समय सहारा इंडिया रिफंड पोर्टल पर ओटीपी प्राप्त करने में कठिनाइयों का सामना करना पड़ रहा है, जो हाल ही में लॉन्च की गई वेबसाइट पर तकनीकी गड़बड़ियों के कारण हो सकता है। इस समस्या को हल करने के लिए, धैर्य रखने और बाद में फिर से प्रक्रिया का प्रयास करने की सिफारिश की जाती है। डेवलपर्स संभवतः समस्या को ठीक करने के लिए काम कर रहे हैं, और समय के साथ, उपयोगकर्ताओं को ओटीपी प्राप्त करने और पोर्टल पर अपना पंजीकरण आसानी से पूरा करने में सक्षम होना चाहिए।",
+            "uploadTime": "02/09/2023"
+        },
+        {
+            "imgURL": "https://tworoot2.github.io/Images/ac_img/Add%20a%20subheading.png",
+            "title": "Why OTP Not Received On Registered Mobile Number",
+            "type": "2",
+            "openURL": "https://bit.ly/3qDxLNt",
+            "description": "There could be several reasons why an OTP (One-Time Password) is not received on the registered mobile number during the registration process on the Sahara Refund Portal. Some common reasons include:  \n\n1. Network Issues: There might be temporary network issues that could prevent the delivery of the OTP to your mobile number. \n\n2. Incorrect Mobile Number: Double-check that you have entered the correct 10-digit Aadhaar-linked mobile number during registration. \n\n3. Mobile Network Restrictions: Some mobile network providers may have restrictions or filters that block certain OTP messages. \n\n4. Delay in Delivery: In some cases, there might be a delay in receiving the OTP due to network congestion or other technical reasons. \n\n5. Full Inbox: If your mobile inbox is full, the OTP message may not be delivered. Clear some space and try again. \n\n6. Spam/Blocked Messages: Check if the OTP message has been mistakenly sent to the spam folder or if your mobile provider has blocked the messages. \n\n\nIf you encounter any issues with receiving the OTP, it’s advisable to wait for a few minutes and try again. If the problem persists, you may contact the support or helpline provided by the Sahara Refund Portal for assistance.",
+            "descriptionHindi": "सहारा रिफंड पोर्टल पर पंजीकरण प्रक्रिया के दौरान पंजीकृत मोबाइल नंबर पर ओटीपी (वन-टाइम पासवर्ड) प्राप्त नहीं होने के कई कारण हो सकते हैं। कुछ सामान्य कारणों में शामिल हैं: \n\n1. नेटवर्क समस्याएँ: अस्थायी नेटवर्क समस्याएँ हो सकती हैं जो आपके मोबाइल नंबर पर ओटीपी की डिलीवरी को रोक सकती हैं। \n\n2. गलत मोबाइल नंबर: दोबारा जांच लें कि आपने पंजीकरण के दौरान सही 10 अंकों का आधार-लिंक्ड मोबाइल नंबर दर्ज किया है। \n\n3. मोबाइल नेटवर्क प्रतिबंध: कुछ मोबाइल नेटवर्क प्रदाताओं के पास प्रतिबंध या फ़िल्टर हो सकते हैं जो कुछ ओटीपी संदेशों को अवरुद्ध करते हैं। \n\n4. डिलीवरी में देरी: कुछ मामलों में, नेटवर्क कंजेशन या अन्य तकनीकी कारणों से ओटीपी प्राप्त होने में देरी हो सकती है। \n\n5. पूर्ण इनबॉक्स: यदि आपका मोबाइल इनबॉक्स भरा हुआ है, तो ओटीपी संदेश वितरित नहीं किया जा सकता है। कुछ जगह खाली करें और पुनः प्रयास करें। \n\n6. स्पैम/अवरुद्ध संदेश: जांचें कि क्या ओटीपी संदेश गलती से स्पैम फ़ोल्डर में भेज दिया गया है या क्या आपके मोबाइल प्रदाता ने संदेशों को अवरुद्ध कर दिया है। \n\n\nयदि आपको ओटीपी प्राप्त करने में कोई समस्या आती है, तो कुछ मिनट प्रतीक्षा करने और पुनः प्रयास करने की सलाह दी जाती है। यदि समस्या बनी रहती है, तो आप सहायता के लिए सहारा रिफंड पोर्टल द्वारा प्रदान की गई सहायता या हेल्पलाइन से संपर्क कर सकते हैं।",
+            "uploadTime": "02/09/2023"
+        },
+        {
             "imgURL": "https://cdn.discordapp.com/attachments/1088845313411919956/1116394808647372870/Get_All_E-Books_required_for_your_preparation_1.png",
             "title": "सहारा इंडिया में जमा पैसा कैसे निकले",
             "type": "2",
@@ -30,15 +48,6 @@
         {
             "imgURL": "https://cdn.discordapp.com/attachments/1088845313411919956/1116394808647372870/Get_All_E-Books_required_for_your_preparation_1.png",
             "title": "Depositor will get refund in 45 days",
-            "type": "2",
-            "openURL": "https://bit.ly/3qDxLNt",
-            "description": "Terming this a historic moment, he said this is the first time when depositors are getting refunds in a case where multiple government agencies are involved and each one has done a seizure. Shah assured the depositors that no one can stop their money now and that they will get the refund in 45 days after registering on the portal. The Modi government has started the process of returning the money of the investors stuck in the four co-operative societies of Sahara. This will bring back the credibility of the people towards cooperatives, Shah tweeted.",
-            "descriptionHindi": "इसे एक ऐतिहासिक क्षण बताते हुए उन्होंने कहा कि यह पहली बार है जब जमाकर्ताओं को ऐसे मामले में रिफंड मिल रहा है जहां कई सरकारी एजेंसियां ​​शामिल हैं और प्रत्येक ने जब्ती की है। शाह ने जमाकर्ताओं को आश्वासन दिया कि अब उनका पैसा कोई नहीं रोक सकता और पोर्टल पर पंजीकरण करने के बाद उन्हें 45 दिनों में रिफंड मिल जाएगा। शाह ने ट्वीट किया, मोदी सरकार ने सहारा की चार सहकारी समितियों में फंसे निवेशकों के पैसे लौटाने की प्रक्रिया शुरू कर दी है। इससे सहकारी समितियों के प्रति लोगों की विश्वसनीयता वापस आएगी।",
-            "uploadTime": "02/09/2023"
-        },
-        {
-            "imgURL": "https://tworoot2.github.io/Images/ac_img/Add%20a%20subheading.png",
-            "title": "OTP not coming problem",
             "type": "2",
             "openURL": "https://bit.ly/3qDxLNt",
             "description": "Terming this a historic moment, he said this is the first time when depositors are getting refunds in a case where multiple government agencies are involved and each one has done a seizure. Shah assured the depositors that no one can stop their money now and that they will get the refund in 45 days after registering on the portal. The Modi government has started the process of returning the money of the investors stuck in the four co-operative societies of Sahara. This will bring back the credibility of the people towards cooperatives, Shah tweeted.",
@@ -123,8 +132,8 @@
                     "title": "User Manual English",
                     "type": "0",
                     "openURL": "https://drive.google.com/file/d/1IdkRpmRGR4ep-DiSVBB0C38TGod4z760/view?usp=sharing",
-                    "description": "Users encountering difficulties with receiving the OTP on the Sahara India Refund Portal while entering their Aadhaar number might be due to technical glitches on the recently launched website. To resolve this issue, it is recommended to be patient and attempt the process again later. The developers are likely working to fix the problem, and with time, users should be able to receive the OTP and complete their registration on the portal smoothly.",
-                    "descriptionHindi": "उपयोगकर्ताओं को अपना आधार नंबर दर्ज करते समय सहारा इंडिया रिफंड पोर्टल पर ओटीपी प्राप्त करने में कठिनाइयों का सामना करना पड़ रहा है, जो हाल ही में लॉन्च की गई वेबसाइट पर तकनीकी गड़बड़ियों के कारण हो सकता है। इस समस्या को हल करने के लिए, धैर्य रखने और बाद में फिर से प्रक्रिया का प्रयास करने की सिफारिश की जाती है। डेवलपर्स संभवतः समस्या को ठीक करने के लिए काम कर रहे हैं, और समय के साथ, उपयोगकर्ताओं को ओटीपी प्राप्त करने और पोर्टल पर अपना पंजीकरण आसानी से पूरा करने में सक्षम होना चाहिए।",
+                    "description": "Click on the Open Website button and you will get the User Manual PDF, you will get full A to Z information about Sahara Refund process",
+                    "descriptionHindi": "'Open Website' बटन पर क्लिक करें और आपको User Manual PDF मिलेगा, आपको सहारा रिफंड प्रक्रिया के बारे में पूरी ए टू जेड जानकारी मिलेगी",
                     "uploadTime": "02/09/2023"
                 }
             ]
