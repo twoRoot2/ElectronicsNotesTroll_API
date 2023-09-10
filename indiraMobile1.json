@@ -84,6 +84,15 @@
             "heading": "Sahara Refund",
             "details": [
                 {
+                    "imgURL": "https://tworoot2.github.io/Images/ac_img/2.png",
+                    "title": "होम पेज",
+                    "type": "0",
+                    "openURL": "https://jansoochna.rajasthan.gov.in/",
+                    "description": "",
+                    "descriptionHindi": "",
+                    "uploadTime": "02/09/2023"
+                },
+                {
                     "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
                     "title": "पात्रता की जांच करें",
                     "type": "0",
@@ -93,19 +102,10 @@
                     "uploadTime": "02/09/2023"
                 },
                 {
-                    "imgURL": "https://tworoot2.github.io/Images/ac_img/2.png",
-                    "title": "Depositor Login",
-                    "type": "0",
-                    "openURL": "https://mocrefund.crcs.gov.in/Depositor/Login",
-                    "description": "Depositor Login \n\n🔘 First of all you have to click on the Open Website button given below \n\n🔘 To login to Sahara Refund Portal, you have to click on 'Depositor Login' located at the top menu bar. \n\n🔘 After this a page will open in front of you, in that you will have to enter the last four digits of your Aadhaar card and mobile number. \n\n🔘 Then you have to click on 'Get OTP' , after this an OTP will come on your mobile number, you have to enter it and click on Verify OTP. \n\n🔘 After that another page will open in front of you, in it you will have to tick the check box of 'Terms and Conditions' located below and click on 'I agree' button",
-                    "descriptionHindi": "जमाकर्ता लॉगिन \n\n🔘 सबसे पहले आपको निचे दिए गए Open Website बटन पर क्लिक करना होगा  \n\n🔘 सहारा रिफंड पोर्टल लॉगिन करने के लिए आपको उपर मेन्यू बार में स्थित 'जमाकर्ता लॉगिन\" पर क्लिक करें।  \n\n🔘 इसके बाद आपके सामने एक पेज खुलेगा, उसमें आपको अपने आधार कार्ड का अंतिम चार अंक और मोबाइल नंबर को दर्ज करना होगा।  \n\n🔘 फिर आपको \"ओटीपी प्राप्त करें पर क्लिक करना होगा, इसके बाद आपके मोबाइल नंबर पर एक ओटीपी आयेगा, आपको उसे दर्ज करके ओटीपी सत्यापित करें पर क्लिक करना होगा।  \n\n🔘 उसके बाद आपके सामने एक और पेज खुलेगा, उसमें आपको नीचे स्थित \"नियम और शर्तें\" वाले चेक बॉक्स पर टिक करके \"मैं सहमत हूं\" बटन पर क्लिक करना होगा।",
-                    "uploadTime": "02/09/2023"
-                },
-                {
                     "imgURL": "https://tworoot2.github.io/Images/ac_img/5.png",
-                    "title": "Important Documents",
+                    "title": "लाभार्थी की सूची",
                     "type": "0",
-                    "openURL": "https://mocrefund.crcs.gov.in/",
+                    "openURL": "https://department.rajasthan.gov.in/sm/department-order/355452/1268/44/3026",
                     "description": "Important Documents \n\n🔘 For this, the following documents should be needed \n\n🔘 Aadhaar card \n\n🔘 Mobile number \n\n🔘 Email (optional) \n\n🔘 Account number linked to Aadhar card or bank passbook \n\n🔘 Deposit Receipt number of money made \n\n🔘 Photo \n\n🔘 Signature \n\n🔘 PAN card (if deposit amount is more than Rs 50,000)",
                     "descriptionHindi": "जरुरी दस्तावेज \n\n🔘 इसके लिए निम्नलिखित दस्तावेज होने चाहिए  \n\n🔘 आधार कार्ड  \n\n🔘 मोबाइल नंबर  \n\n🔘 ईमेल (वैकल्पिक)  \n\n🔘 आधार कार्ड से जुड़ा खाता संख्या या बैंक पासबुक  \n\n🔘 जमा किए गए पैसे की रसीद संख्या  \n\n🔘 फोटो  \n\n🔘 हस्ताक्षर  \n\n🔘 पैन कार्ड (यदि जमा राशि 50,000 से अधिक है)",
                     "uploadTime": "02/09/2023"
