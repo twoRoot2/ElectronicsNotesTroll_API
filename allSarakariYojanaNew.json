@@ -112,7 +112,7 @@
                 },
                 {
                     "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
-                    "title": "राशन कार्ड List",
+                    "title": "PM किसान किस्त",
                     "type": "5",
                     "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
                     "description": "",
@@ -121,18 +121,108 @@
                     "allFiles": [
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "मुख्य वेबसाइट",
+                            "type": "1",
+                            "openURL": "https://pmkisan.gov.in/",
+                            "descriptionHindi": "पीएम किसान सम्मान निधि योजना की 11वीं किश्त जारी कर दी गई है। खाताधारकों के अकाउंट में पैसा पहुंच चुका है। \nअगर आपके अकाउंट में भी पीएम किसान सम्मान निधि का पैसा आना था लेकिन अबतक नहीं आया है तो इसके पीछे कई कारण हो सकते है।\n लेकिन इन दिनों जो सबसे कॉमन कारण जो निकलकर आ रहा है वो है केवाईसी। जिन लोगों ने केवाईसी नहीं कराया है उनके अकाउंट में पैसा नहीं पहुंचा है। \nइस बाबत सरकार द्वारा एक हेल्पलाइन नंबर भी जारी किया गया है। आप इस नंबर पर फोन कर आपके खाते में पैसे नहीं आने की सही वजह जान सकते हैं।\n गौरतलब है कि प्रधान मंत्री किसान सम्मान निधि योजना की 11वीं किस्त के तहत 10 करोड़ किसानों के खातों में कुल 21 हजार करोड़ रुपये भेजे गए हैं। \nजिन लोगों को पीएम किसान सम्मान निधि योजना के तहत पैसे मिले थे लेकिन इस बार पैसे नहीं मिले हैं\n वो हेल्पलाइन नंबर 011-24300606 पर कॉल कर अपने खाते की जानकारी ले सकते हैं।",
+                            "description": "The 11th installment of the PM Kisan Samman Nidhi Yojana has been released. Money has been credited to the accounts of the beneficiaries. If you were supposed to receive the PM Kisan Samman Nidhi funds in your account but haven't received them yet, there could be several reasons behind it. However, currently, the most common reason is KYC-related issues. Those who haven't completed their KYC haven't received the money in their accounts. The government has also issued a helpline number regarding this matter. You can call this number to find out the correct reason for the money not being credited to your account. It is noteworthy that under the 11th installment of the Prime Minister Kisan Samman Nidhi Yojana, a total of 21,000 crores have been sent to the accounts of 10 crore farmers. If you received funds under the PM Kisan Samman Nidhi Yojana previously but haven't received them this time, you can inquire about your account details by calling the helpline number at 011-24300606."
+                            ,
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "नया पंजीकरण",
+                            "type": "1",
+                            "openURL": "https://pmkisan.gov.in/RegistrationForm.aspx",
+                            "descriptionHindi": "दोस्तों इस लेख में हम आपको बताएंगें कि प्रधानमंत्री किसान सम्मान निधि योजना ऑनलाइन आवेदन कैसे करें \nसाथ ही योजना से जुडी अन्य जानकारी भी आपको इस लेख के माध्यम से उपलब्ध करायी जाएगी।\n प्रधानमंत्री किसान सम्मान निधि योजना के लिए देश का कोई भी किसान योजना की आधिकारिक वेबसाइट pmkisan.gov.in पर जाकर आवेदन कर सकता है \nबशर्तें वह PM Kisan Samman Nidhi Yojana की सभी पात्रताओं को पूरा करता हो। \nलेकिन कम संख्या में किसानों का वेरिफिकेशन और कुछ राज्यों द्वारा इस योजना को लागू न करने के कारण पूरा बजट खर्च नहीं हुआ \nइस कारण से इस वर्ष कृषि मंत्रालय ने किसान सम्मान योजना के तहत किसानों को पैसे देने के लिए केवल 60,000 करोड़ रूपये का ही बजट माँगा है।",
+"description": "In this article, we will explain how to apply for the Prime Minister Kisan Samman Nidhi Yojana online. Additionally, other related information about the scheme will be provided through this article. Any farmer in the country can apply for the Prime Minister Kisan Samman Nidhi Yojana by visiting the official website pmkisan.gov.in, provided they fulfill all the eligibility criteria of the PM Kisan Samman Nidhi Yojana. However, due to the verification of a low number of farmers and some states not implementing this scheme, the entire budget has not been spent. Consequently, this year, the Ministry of Agriculture has only requested a budget of 60,000 crores to pay farmers under the Kisan Samman Yojana."
+,
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "किसान किश्त देखे",
+                            "type": "1",
+                            "openURL": "https://pmkisan.gov.in/BeneficiaryStatus.aspx",
+                            "descriptionHindi": "देशभर में ऐसी कई योजनाएं सरकार द्वारा चलाई जा रही हैं, जिनका सीधा लाभ जरूरतमंद और गरीब वर्ग तक पहुंच रहा है।\n इन योजनाओं को लाभ लेने वाले लोगों की संख्या काफी ज्यादा है, और अलग-अलग वर्ग के लिए अलग-अलग तरह की योजनाएं चल रही हैं। \nजहां एक तरफ राज्य सरकारें अपने स्तर पर कई योजनाओं का संचालन करती हैं, तो वहीं दूसरी तरफ केंद्र सरकार भी देशवासियों के लिए कई योजनाएं चला रही है, \nजिसमें से एक है प्रधानमंत्री किसान सम्मान निधि योजना। इसमें किसानों को सालाना 6 हजार रुपये दिए जाते हैं, \nजिन्हें 2-2 हजार रुपये की तीन किस्तों में सीधे किसानों के बैंक खाते में भेजे जाते हैं।\n वहीं, अब हर किसी को योजना की 12वीं किस्त का इंतजार है। तो चलिए जानने की कोशिश करते हैं कि आखिर ये किस्त कब तक आ सकती है।",
+"description": "Several government-run schemes across the country are directly benefiting the needy and impoverished sections of society. A significant number of people are availing the benefits of these schemes, with different schemes in place for various categories. While state governments administer several schemes at their level, the central government is also implementing numerous schemes for the citizens, one of which is the Prime Minister Kisan Samman Nidhi Yojana. Under this, farmers receive an annual payment of 6,000 rupees, disbursed in three installments of 2,000 rupees each directly into the farmers' bank accounts. Presently, everyone is awaiting the 12th installment of the scheme. Let's try to find out when this installment is expected to arrive."
+,
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "आधार संख्या परिवर्तन",
+                            "type": "1",
+                            "descriptionHindi": "आधार में ऐसे बदलें नाम, पता या फोन नंबर (Aadhaar Enrolment Online)\n-सबसे पहले UIDAI के आधिकारिक पोर्टल https://ask.uidai.gov.in/ को ओपन कर लें.\n\n-मोबाइल नंबर और Captcha की मदद से लॉग-इन करने का काम करें\n\n-जो डिटेल मांगा जा रहा है, उसे भर दें.\n\n-पूरा डिटेल भरने के बाद अब Send OTP पर क्लिक करने का काम करें.\n\n-आपके मोबाइल पर ओटीपी (OTP) भेजने का काम किया जाएगा.\n\n-इस OTP को दायीं ओर दिये गये बॉक्स में लिखें और सबमिट OTP पर क्लिक कर दें.\n\n-अब आप अगले पेज पर जायें. यहां आधार सर्विसेज न्यू एनरॉलमेंट और अपडेट आधार का विकल्प नजर आएगा. यहां अपडेट आधार (Update Aadhaar) पर क्लिक करने का काम करें.\n\n-अगली स्क्रीन पर आपको नाम, आधार नंबर, रेजिडेंट टाइप और आप क्या अपडेट करना चाहते हैं, जैसे ऑप्‍शन दिखने लगेगा.\n\n-यहां आपको कई अनिवार्य विकल्प मिलेंगे, जिसे आपको भरना है. ‘what do you want to update’ सेक्शन पर मोबाइल नंबर का चयन करें.",
+                            "description": "To update information such as name, address, or phone number in Aadhaar (Aadhaar Enrolment Online):\n- Firstly, open the UIDAI's official portal at https://ask.uidai.gov.in/.\n\n- Login using your mobile number and captcha.\n\n- Fill in the requested details.\n\n- After entering all the details, click on 'Send OTP'.\n\n- An OTP will be sent to your mobile.\n\n- Enter this OTP in the designated box on the right and click 'Submit OTP'.\n\n- Now, proceed to the next page where you'll find the options for Aadhaar services, new enrolment, and updating Aadhaar. Click on 'Update Aadhaar'.\n\n- On the next screen, you'll be asked for details like name, Aadhaar number, resident type, and the specific update you want to make.\n\n- Fill in the mandatory options provided. Select 'mobile number' in the 'what do you want to update' section."
+                            ,
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "किसान किस्त केसे देखे",
+                            "type": "1",
+                            "openURL": "https://yojanaresultinfo.blogspot.com/2021/10/pm-kisan-yojana-6.html",
+                            
+                                "descriptionHindi": "ऐसे करें चेक\n\nखाते में पैसा पहुंचा कि नहीं इसे पता करने के लिए सबसे पहले पीएम किसान (PM Kisan) की आधिकारिक वेबसाइट pmkisan.gov.in पर जाएं।\n वहां पर आपको दाईं तरफ 'Farmers Corner' या किसानों के लिए का ऑप्शन मिलेगा। \nउस सेक्शन ‘Beneficiary Status' या लाभार्थी की स्थिति के ऑप्शन पर क्लिक करना होगा। उस पर क्लिक करने के बाद नया पेज खुल जाएगा।\nनए पेज पर लाभार्थी को आधार नंबर, बैंक खाता संख्या या मोबाइल नंबर में से किसी एक का ऑप्शन चुनना होगा। \nएक ऑप्शन चुनने के बाद आधार नंबर या बैंक खाता या फिर मोबाइल नंबर की डिटेल फीड करनी होगी।\n इसके बाद इसके बाद 'Get Data' पर क्लिक करें। इस पर क्लिक करने के बाद लाभार्थी की सभी किस्तों का स्टेटस सामने आ जाएगा। \nयानी उसे अब तक कितना पैसा मिला है। किस खाते में पैसा गया है, यह डिटेल सामने आ जाएगी।",
+                                "description": "How to Check\n\nTo determine whether money has reached the account, first visit the official PM Kisan (PM Farmer) website pmkisan.gov.in.\n There, you will find the 'Farmers Corner' or 'For Farmers' option on the right side.\n Click on the 'Beneficiary Status' option in that section. A new page will open after clicking on it.\nOn the new page, the beneficiary has to choose an option from Aadhaar number, bank account number, or mobile number.\n After selecting an option, enter the Aadhaar number, bank account, or mobile number details.\n Then click on 'Get Data'. After clicking on it, the status of all the installments of the beneficiary will appear.\n That is, how much money has been received so far. Details about which account received the money will be displayed."
+                              
+                               ,
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "News (समाचार)",
+                            "type": "1",
+                            "openURL": "https://sabhi-sarkari-yojana.blogspot.com/2023/08/pm-kisaan-kist.html",
+                            "descriptionHindi": "पीएम मोदी योजना के तहत भारत सरकार विभिन्न प्रकार की कल्याणकारी योजनाओं को देश के सभी पात्र लाभार्थियों तक पहुंचा रही है | \nवर्ष 2014 में प्रधानमंत्री बनने के पश्चात माननीय प्रधानमंत्री श्री नरेंद्र मोदी द्वारा देश हित में बहुत सी योजनाओं का शुभारंभ किया है | \nआज अपने इस लेख के माध्यम से हम आपको प्रधानमंत्री द्वारा आरंभ की गई मुख्य योजनाओं के बारे में मुख्य जानकारी जैसे \nजरूरी दस्तावेज, लाभ, महत्वपूर्ण तिथियां, पंजीकरण प्रक्रिया, उपयोगकर्ता दिशानिर्देश और आधिकारिक वेबसाइट प्रदान करेंगे। \nPM Modi Yojana के तहत भिन्न भिन्न प्रकार के मंत्रालय द्वारा विभिन्न प्रकार कल्याणकारी कार्यक्रम महिला कल्याण, युवा कल्याण, कृषि कल्याण में चलाए जा रहे हैं |",
+  "description": "Under the PM Modi scheme, the Indian government is reaching various beneficial schemes to all eligible beneficiaries across the country. After becoming the Prime Minister in 2014, Honorable Prime Minister Shri Narendra Modi initiated many schemes for the welfare of the country. In this article today, we will provide you with key information about the main schemes started by the Prime Minister, such as necessary documents, benefits, important dates, registration process, user guidelines, and the official website. Various ministries under the PM Modi Yojana are implementing various welfare programs in women's welfare, youth welfare, and agricultural welfare."
+,
+                            "uploadTime": "02/09/2023"
+                        }
+                    ]
+                },
+                {
+                    "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
+                    "title": "",
+                    "type": "5",
+                    "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
+                    "description": "",
+                    "descriptionHindi": "naH",
+                    "uploadTime": "02/09/2023",
+                    "allFiles": [
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
                         },
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
+                            "description": "na",
+                            "descriptionHindi": "naH",
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
+                            "description": "na",
+                            "descriptionHindi": "naH",
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
@@ -141,7 +231,7 @@
                 },
                 {
                     "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
-                    "title": "राशन कार्ड List",
+                    "title": "",
                     "type": "5",
                     "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
                     "description": "",
@@ -150,18 +240,36 @@
                     "allFiles": [
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
                         },
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
+                            "description": "na",
+                            "descriptionHindi": "naH",
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
+                            "description": "na",
+                            "descriptionHindi": "naH",
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
@@ -170,7 +278,7 @@
                 },
                 {
                     "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
-                    "title": "राशन कार्ड List",
+                    "title": "",
                     "type": "5",
                     "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
                     "description": "",
@@ -179,18 +287,36 @@
                     "allFiles": [
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
                         },
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
+                            "description": "na",
+                            "descriptionHindi": "naH",
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
+                            "description": "na",
+                            "descriptionHindi": "naH",
+                            "uploadTime": "02/09/2023"
+                        },
+                        {
+                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
@@ -199,7 +325,7 @@
                 },
                 {
                     "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
-                    "title": "राशन कार्ड List",
+                    "title": "",
                     "type": "5",
                     "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
                     "description": "",
@@ -208,76 +334,36 @@
                     "allFiles": [
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
                         },
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
-                            "description": "na",
-                            "descriptionHindi": "naH",
-                            "uploadTime": "02/09/2023"
-                        }
-                    ]
-                },
-                {
-                    "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
-                    "title": "राशन कार्ड List",
-                    "type": "5",
-                    "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
-                    "description": "",
-                    "descriptionHindi": "naH",
-                    "uploadTime": "02/09/2023",
-                    "allFiles": [
-                        {
-                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
                         },
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
-                            "description": "na",
-                            "descriptionHindi": "naH",
-                            "uploadTime": "02/09/2023"
-                        }
-                    ]
-                },
-                {
-                    "imgURL": "https://tworoot2.github.io/Images/ac_img/1.png",
-                    "title": "राशन कार्ड List",
-                    "type": "5",
-                    "openURL": "https://mocrefund.crcs.gov.in/Depositor/Register",
-                    "description": "",
-                    "descriptionHindi": "naH",
-                    "uploadTime": "02/09/2023",
-                    "allFiles": [
-                        {
-                            "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
                         },
                         {
                             "imgURL": "https://play-lh.googleusercontent.com/n3_yZLZV1ZaN7ufEafB6TZv9TbNgywBQ500KWeHliiQiL2ZuJ3s42y4W8APHJi6txWM8=w240-h480-rw",
-                            "title": "Sarkari Yojana",
-                            "type": "2",
-                            "openURL": "https://play.google.com/store/apps/details?id=com.whole.allsarkariyojna",
+                            "title": "",
+                            "type": "1",
+                            "openURL": "",
                             "description": "na",
                             "descriptionHindi": "naH",
                             "uploadTime": "02/09/2023"
